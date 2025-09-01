@@ -16,9 +16,10 @@ Always curious about new tech, clean code, and solving real-world problems.
 ---
 
 ### 📊 GitHub Stats
-![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithin-voj&show_icons=true&theme=radical)
+![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-voj&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-voj&layout=compact&theme=radical&count_private=true)
 
 ---
 
