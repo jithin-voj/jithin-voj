@@ -13,16 +13,6 @@ Always curious about new tech, clean code, and solving real-world problems.
 - **Databases:** PostgreSQL, MongoDB,   
 - **Other Interests:** Cloud Infra, Automation, Open Source  
 
----
-
-### 📊 GitHub Stats
-![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithin-voj&show_icons=true&theme=radical&count_private=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-voj&layout=compact&theme=radical&count_private=true)
-
----
-
 ### 🌟 A little more about me
 - 🔭 Currently working on: **N-ABLE Adlumin**  
 - 🌱 Learning: **AI, Cloud Native, and System Design**  
