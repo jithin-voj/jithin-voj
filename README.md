@@ -16,10 +16,5 @@ Always curious about new tech, clean code, and solving real-world problems.
 ### 🌟 A little more about me
 - 🔭 Currently working on: **N-ABLE Adlumin**  
 - 🌱 Learning: **AI, Cloud Native, and System Design**  
-- 🎯 Goal: **Build impactful projects & grow as a full-stack engineer**  
+ 
 
-
----
-
-💬 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK) 
